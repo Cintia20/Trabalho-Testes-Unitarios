@@ -1,4 +1,5 @@
- Sobre o Projeto:
+  Sobre o Projeto:
+  
 Projeto Flappy Bird desenvolvido em Godot 4 com testes unitários implementados usando GUT (Godot Unit Test).
 
  Como Configurar o Projeto:
