@@ -8,13 +8,18 @@ Godot 4.2.1 ou superior instalado
 GUT (Godot Unit Test) - Já incluído no projeto
 
 2. Baixar e Abrir o Projeto
-Faça o download do projeto (ZIP ou clone via Git)
+   
+3. Faça o download do projeto (ZIP ou clone via Git)
+
 Extraia os arquivos em uma pasta de sua preferência
+
 Abra o Godot Engine
+
 Clique em "Importar" e selecione a pasta do projeto
+
 Abra o arquivo project.godot
 
-  3.Executar os Testes Unitários:
+  4.Executar os Testes Unitários:
 Vá para a aba inferior do Godot e clique em "GUT"
 Verifique se as configurações estão corretas:
 Diretório de testes: res://tests/unit
