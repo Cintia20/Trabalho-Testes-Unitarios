@@ -20,12 +20,19 @@ Clique em "Importar" e selecione a pasta do projeto
 Abra o arquivo project.godot
 
   4.Executar os Testes Unitários:
+  
 Vá para a aba inferior do Godot e clique em "GUT"
+
 Verifique se as configurações estão corretas:
+
 Diretório de testes: res://tests/unit
+
 Incluir subdiretórios: MARCADO
+
 Ignore Pause: MARCADO
+
 Clique no botão "Run All" para executar todos os testes
+
 Os resultados aparecerão em verde (PASS) ou vermelho (FAIL)
 
  Funcionalidades Principais Testadas
